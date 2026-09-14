@@ -12,7 +12,7 @@ python -m pip install python-docx
 
 ## Run the console
 
-Run this command from the `Tashen-Document` root directory:
+Run this command from the root directory:
 
 ```powershell
 python markdown_to_docx.py
@@ -31,7 +31,7 @@ PS C:\Tashen-Document> python markdown_to_docx.py
 Choose an option [2]: 2
 Select the Markdown folder in the folder picker.
 [Windows folder picker opens]
-Selected folder: C:\Tashen-Document\use-case
+Selected folder: C:\Document\use-case
 Output folder [use-case-docx]: use-case-docx
 
 Created: use-case-docx\access-control\permissions\create-permission.docx
