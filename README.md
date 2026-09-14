@@ -15,7 +15,7 @@ python -m pip install python-docx
 Run this command from the `Tashen-Document` root directory:
 
 ```powershell
-python tools/markdown_to_docx.py --console
+python markdown_to_docx.py
 ```
 
 Running the script without arguments opens the same console menu.
@@ -23,7 +23,7 @@ Running the script without arguments opens the same console menu.
 ## Console example
 
 ```text
-PS C:\Tashen-Document> python tools/markdown_to_docx.py --console
+PS C:\Tashen-Document> python markdown_to_docx.py
 
 === Use-case Markdown to DOCX ===
 1. Convert one Markdown file
